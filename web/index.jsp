@@ -11,6 +11,6 @@
     <title>wo</title>
   </head>
   <body>
- wo ai ni:<%=com.jyj.T.getStr()%>
+ wo ai 那您:<%=com.jyj.T.getStr()%>
   </body>
 </html>
